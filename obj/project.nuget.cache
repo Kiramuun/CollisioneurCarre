@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/MxXoEUUSQThVhw1mH6OamMAove/9Hnk/XTnXxF1M91ud48vZ7VCOQPIENY9TqTWquwTtCXd7o21rIwKA24Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3WA\\source\\repos\\CollisioneurCarré\\CollisioneurCarré.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3WA\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\3WA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
